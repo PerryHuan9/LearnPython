@@ -1,0 +1,1 @@
+    Abstract: This article mainly explains the realization of common flash ADC principle. The flash ADC compares the input signal to a column of comparators with their respective reference voltages and then encodes the output of the comparator. Flash ADC has the advantages of simple design, low power consumption.
